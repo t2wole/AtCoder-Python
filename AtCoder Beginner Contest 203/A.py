@@ -8,3 +8,4 @@ elif c == a:
     print(b)
 else:
     print(0)
+
