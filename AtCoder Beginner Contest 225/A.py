@@ -10,4 +10,5 @@ elif a != b and b != c and c != a:
     print('6')
 else:
     print('3')
-    
+
+
